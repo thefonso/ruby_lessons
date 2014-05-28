@@ -1,3 +1,7 @@
+# recall...
+
+	secret_identities = { 'The Batman' => 'Bruce Wayne', 'Superman' => 'Clark Kent', 'Wonder Woman' => 'Diana Prince'}
+
 # =====  Methods on a Hash  =====
 
 	hash = { 'a' => 100, 'b' => 200 }

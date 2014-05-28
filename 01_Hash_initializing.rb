@@ -1,4 +1,5 @@
-# How can I use a Hash?
+# So how do you create a Hash?
+#
 # =====  Initializing a Hash =====
 
 		my_hash = { 
@@ -8,4 +9,11 @@
 		}
      
     my_hash # => {"name"=>"Eric", "age"=>26, "hungry?"=>true}
+    
+# Another way to write this is all on one line...
      
+    my_hash = { 'name' => 'Kosh', 'age' => 250, 'hungry?' => false }
+    
+    my_hash 
+    
+    

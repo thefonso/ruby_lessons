@@ -4,13 +4,13 @@
 
 # Every instance of a String is a new object, 
 # notice they have different object ids.
-'this is a string'.object_id # => 70292614237080
-'this is a string'.object_id # => 70292614236620
+'this is a string'.object_id # => 70247714414700
+'this is a string'.object_id # => 70247714414240
 
 # Every instance of a symbol is the same object,
 # notice they have the same object id.
-:this_is_a_symbol.object_id # => 363208
-:this_is_a_symbol.object_id # => 363208
+:this_is_a_symbol.object_id # => 362888
+:this_is_a_symbol.object_id # => 362888
 
 # This makes symbols easy to test for equality. For a symbol you just check
 # if it is the same object, but for a String, you must check that
