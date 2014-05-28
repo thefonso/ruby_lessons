@@ -9,6 +9,11 @@
   THIS LESSON! - https://github.com/thefonso/ruby_lessons
   
   
+#===== Excercise =====
+
+# Download this code and play with all the examples in irb and your text editor
+# let your fingers get a feel for hashes !
+
   
 #=====  EXTRA FUN  =====
 
