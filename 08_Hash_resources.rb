@@ -6,7 +6,7 @@
 
   https://en.wikibooks.org/wiki/Ruby_Programming/Data_types
   
-  THIS LESSON! - 
+  THIS LESSON! - https://github.com/thefonso/ruby_lessons
   
   
   
